@@ -14,4 +14,4 @@ we tried to use 'target' to access the elemnt that we need.
 
 
 
-p.s. occuered issue : the background color of the project changed, as well as from the registration form due to an unavailable picture that we had chosen. 
+p.s. the background color of the project, as well as from the registration form changes or is not available when viewed with github BitBucket
