@@ -11,3 +11,7 @@ task was to create a functioning registration form with the things we have leare
 we experimented with some stuff we hadn't used before, such as 'target'
 
 we tried to use 'target' to access the elemnt that we need.
+
+
+
+p.s. occuered issue : the background color of the project changed, as well as from the registration form due to an unavailable picture that we had chosen. 
