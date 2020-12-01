@@ -4,13 +4,13 @@ HTML CSS SCSS Project Login Registration
 
 first project made.
 
-created only with html, css and scss. 
+created only with html, css and scss. No other languages were allowed.
 
-task was to create a functioning registration form with the things we have learend so far. 
+Task was to create a functioning registration form with the things we have learend so far. 
 
-we experimented with some stuff we hadn't used before, such as 'target'
+We experimented with some stuff we hadn't used before, such as 'target'
 
-we tried to use 'target' to access the elemnt that we need.
+We tried to use 'target' to access the element that we need.
 
 
 
